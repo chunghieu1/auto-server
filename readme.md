@@ -41,14 +41,14 @@ cd auto-server
 Make the setup script executable:
 
 ```bash
-chmod +x auto-server.sh
+chmod +x setup_server.sh
 ```
 
 ### Step 3: Run the Setup Script
 Execute the main deployment script:
 
 ```bash
-sudo ./auto-server.sh
+sudo ./setup_server.sh
 ```
 
 _Note: The script will prompt you for configuration details (e.g., choice of web server, domain name for SSL, etc.)._
