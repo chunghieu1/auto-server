@@ -1,5 +1,4 @@
-# AutoServer - Automated VPS Deployment 🖥️⚡
-
+# AutoServer - Automated VPS Deployment
 A script/toolkit that helps you quickly set up and secure a Linux server for VPS.
 
 ## Overview
